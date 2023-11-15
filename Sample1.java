@@ -2,11 +2,10 @@ package Task;
 
 public class Main {
 
-	public void m1()
+	public void m1(int x, int y)
 	{
 
-		int x = 20;
-		int y = 18;
+		
 		if (x > y) {
 		      System.out.println("x is greater than y");
 
@@ -17,7 +16,7 @@ public class Main {
 		  {
 		     Main m=new Main();
 
-		    m.m1();
+		    m.m1(20,18);
 		    }  
 		  }
 		}
