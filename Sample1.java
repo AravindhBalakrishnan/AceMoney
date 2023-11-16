@@ -32,6 +32,11 @@ public class Main
 		System.out.println("div method");
 
 	}
+	public void add()
+	{
+		System.out.println("add method");
+
+	}	
 		
 	public static void main(String[] args) 
 	{
